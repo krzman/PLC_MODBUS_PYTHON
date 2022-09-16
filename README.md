@@ -1,2 +1,4 @@
 Opis:
   Aplikacja w Django
+
+...
