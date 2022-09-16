@@ -1,1 +1,2 @@
-# PLC_MODBUS_PYTHON
+Opis:
+  Aplikacja w Django
